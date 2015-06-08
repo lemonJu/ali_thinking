@@ -21,10 +21,6 @@
             "/in/*",
             "/out/*",
             "../interceptor/charset"
-        ],
-        [
-            "/*",
-            "./forbidden"
         ]
     ],
     "sessionContext": {
